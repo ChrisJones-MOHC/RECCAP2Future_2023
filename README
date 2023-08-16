@@ -1,0 +1,52 @@
+list of figures, data, code:
+
+1. Hist/future CO2
+Fig1_scenario_emiss.py
+CMIP6_C4MIP_landuse_emissions.nc
+Fig1_emiss.dat
+
+2. Anthro emissions
+Fig2_anthro_emiss.py
+Fig2_anthro_emiss.jpg
+data under DATA/Processed/
+
+3 & 4. Hist/future T & P, and carbon stores/fluxes
+Fig3_4_global_T_P_Ccyc_plumes.py
+Fig3_global_tas_pr_plumes.jpg
+Fig4_global_Ccyc_plumes.jpg
+data under: DATA/Processed/Global/
+
+5. Global waterfall of balance of fluxes for 2050/2100
+Fig5_Global_waterfall.py
+Fig5_Global_waterfall.jpg
+no data - all in the code
+
+6 & 7. plumes of regional cVeg, cSoil
+Fig6_7_regional_C_plumes.py
+Fig_6_7_cVeg_plume.jpg
+Fig_6_7_cSoil_plume.jpg
+data under DATA/Processed/
+
+8-18 - regional GPP, NBP and Ctot vs RECCAP2 assessments
+Fig8-18_Regional_GPP_NBP_Ctot.py
+data under: DATA/Processed/<region name>
+
+19 & 20 global maps and bar chart synthesis for 2050/2100
+Fig19_20_global_synthesis_maps.py
+Fig19_RECCAP2_global_synthesis_2050.jpg
+Fig20_RECCAP2_global_synthesis_2100.jpg
+no data - all in code
+
+
+Supplementary figures:
+
+S1. land use (crop + pasture) by region
+FigS1_LU_ssp.py
+FigS1_LU_ssp.png
+data under DATA/CMIP6_LU_Forcing/
+
+S2 & 3. plumes of regional tas, pr
+Fig2_3_regional_C_plumes.py
+Fig_2_3_tas_plume.jpg
+Fig_2_3_pr_plume.jpg
+data under DATA/Processed/
